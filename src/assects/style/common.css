@@ -1,0 +1,128 @@
+/* button with white background */
+
+ .btn-Wh{
+    background-color: #e4f3fa;
+    border: 2px solid #e4f3fa;
+    color: #1e91cc;
+    padding: 8px 35px 8px 35px;
+    border-radius: 6px;
+    margin-left: 20px;
+    font-size: 17px;
+}
+ 
+ /*  transparent  button */
+ /*   div outside button */
+ 
+ 
+ .btn-transparent{
+     background-color:#2094cf ;
+     border:1px solid white;
+     padding: 6px 40px 6px 40px;
+     border-radius:6px;
+     color:  #e8e8e8;
+     opacity: 85%;
+     font-size: 17px
+ }
+ 
+ 
+ /* font-family Montserrat */
+ 
+ .fnt-mont{
+     font-family: 'Montserrat', sans-serif;
+ }
+ 
+ 
+ /* font-family poppins */
+ .fnt-poppins{
+     font-family: 'Poppins', sans-serif;
+ }
+ 
+ /* font-size Small */
+ 
+ .font-sm{
+     font-size: 16px;
+ }
+ 
+ .font-md{
+     font-size: 18px;
+ }
+ 
+ .font-lg{
+     font-size: 36px;
+ }
+ 
+ /* blue button */
+ 
+ .btn-blue{
+     background-color: #279fdc ;
+     border:1px solid #279fdc ;
+     padding: 6px 40px 6px 40px;
+     border-radius:6px;
+     color:  #e8e8e8;
+     opacity: 85%;
+     font-size: 17px
+ }
+ 
+ /* white button of model */
+ .btn-white-model{
+     background-color: #ffffff ;
+     border:1px solid #e8e8e8;
+     padding: 6px 40px 6px 40px;
+     border-radius:6px;
+     color: #7a7a7a;
+     opacity: 85%;
+     font-size: 17px
+ }
+  
+
+ /* opacity */
+ 
+ .opacity85{
+     opacity: 85%;
+ }
+ .opacity32{
+     opacity: 32%;
+ }
+
+ /*Modal Css*/
+  .input-of-modal{
+         width: 423px;
+         height: 40px;
+         border-radius: 6px;
+         border: solid 1px #e8e8e8;
+         background-color: #ffffff;
+         padding-left: 10px;
+ }
+
+ /* input of signup */
+
+ .input-of-signup{
+    padding: 10px;
+        width: 365px;
+        height: 40px;
+        border-radius: 6px;
+        border: solid 1px #e8e8e8;
+        background-color: rgba(255, 255, 255, 0.88);
+ }
+
+/* styling for view model and view gold buttons */
+
+.link-of-models{
+    color:#ffffff;
+}
+.link-of-models:hover{
+    text-decoration: none;
+    color:#ffffff;
+}
+
+/* Link Style */
+
+.link-model-on-action-buttons{
+    color: #979797;
+}
+.link-model-on-action-buttons:hover{
+    text-decoration: none;
+}
+textarea{
+    resize: none;
+}
